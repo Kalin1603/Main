@@ -1,2 +1,1 @@
-# Main
-All personal/work projects are here.
+# All personal/work projects are here.
